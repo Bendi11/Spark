@@ -18,3 +18,4 @@ vsc-ex
 shell.nix
 .replit
 rust-toolchain
+/.env
